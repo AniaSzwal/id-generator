@@ -1,0 +1,8 @@
+{
+  "name": "id-generator",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/AniaSzwal/id-generator.git",
+  "author": "Anna Szwal <aniaszwal@gmail.com>",
+  "license": "MIT"
+}
